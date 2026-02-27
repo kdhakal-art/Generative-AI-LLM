@@ -1,0 +1,11 @@
+What you'll learn
+- The course provides the entire toolbox you need to become an AI Engineer
+- Understand key Artificial Intelligence concepts and build a solid foundation
+- Start coding in Python and learn how to use it for NLP and AI
+- Impress interviewers by showing an understanding of the AI field
+- Apply your skills to real-life business cases
+- Harness the power of Large Language Models
+- Leverage LangChain for seamless development of AI-driven applications by chaining interoperable components
+- Become familiar with Hugging Face and the AI tools it offers
+- Use APIs and connect to powerful foundation models
+- Utilize Transformers for advanced speech-to-text
