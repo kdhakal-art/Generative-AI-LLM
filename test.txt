@@ -1,0 +1,13 @@
+ <ul class="permalinks-list">
+                <li class="permalink-item"><a href="lastBuild/" class="permalink-link model-link inside tl-tr">Last
+                        build (#2057), 1 mo 0 days ago</a></li>
+                <li class="permalink-item"><a href="lastStableBuild/"
+                        class="permalink-link model-link inside tl-tr">Last stable build (#2057), 1 mo 0 days ago</a>
+                </li>
+                <li class="permalink-item"><a href="lastSuccessfulBuild/"
+                        class="permalink-link model-link inside tl-tr">Last successful build (#2057), 1 mo 0 days
+                        ago</a></li>
+                <li class="permalink-item"><a href="lastCompletedBuild/"
+                        class="permalink-link model-link inside tl-tr">Last completed build (#2057), 1 mo 0 days ago</a>
+                </li>
+            </ul>
